@@ -1,0 +1,6 @@
+[{
+	id: 1,
+	name: '碎肉玉米',
+	cover: 'cover.jpeg',
+	foodstuff: [1, 2, 3, 4, 5]
+}]
